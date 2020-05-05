@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px 0 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+line-height: 2;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 20%;
+  height: 10px;
+  border-width: 5px;
+  border-color: #eaf6f6;
+  margin: 70px auto;
+}
+
+
+
+.profile-pic {
+  width: 18%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-pic1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-pic2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #eaf6f6;
+  position: relative;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 18%;
+  top: 40%;
+}
+
+.pro-dis {
+  margin: 35px auto;
+}
+.info{
+  width: 25%;
+}
+.con {
+  margin: 45px auto;
+}
+
+.BUTTON_FSU {
+  font-family: 'Montserrat', sans-serif;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+
+  font-size: 1.8rem;
+  font-weight: 100;
+  padding: 7px 50px 7px 50px ;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  background-color: #66BFBF;
+
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_FSU:hover {
+  background: #E5850E;
+  border: solid #66BFBF 0;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.bottom-container{
+  position: relative;
+  background-color: #66BFBF;
+  padding: 30px 0;
+  margin-top: 20px;
+}
+.footer-link{
+  color: #11999E;
+  margin: 0 20px 0 20px;
+  text-decoration: none;
+}
+.footer-links{
+
+  margin: 20px 0;
+font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
+.footer-matn{
+  color: #EAF6F6;
+  margin: 40px auto;
+  font-size: 0.8rem;
+}
