@@ -77,12 +77,14 @@ hr {
   position: absolute;
   right: 20%;
   top: 25%;
+  width: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 18%;
   top: 40%;
+  width: 10%;
 }
 
 .pro-dis {
